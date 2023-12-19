@@ -1,0 +1,7 @@
+in.ineuron.SpringBootLog4JApplication 475 main INFO Starting SpringBootLog4JApplication using Java 17.0.9 with PID 20288 (D:\Java iNeuron\7th April- MavenLog4jSL4j\SpringBoot-Log4J\target\classes started by ritan in D:\Java iNeuron\7th April- MavenLog4jSL4j\SpringBoot-Log4J) 2023-12-18 21:21:37,472 
+in.ineuron.SpringBootLog4JApplication 477 main INFO No active profile set, falling back to 1 default profile: "default" 2023-12-18 21:21:37,474 
+in.ineuron.SpringBootLog4JApplication 1011 main INFO Started SpringBootLog4JApplication in 0.832 seconds (process running for 1.415) 2023-12-18 21:21:38,008 
+in.ineuron.beans.Student 1015 main DEBUG Student.preparation() 2023-12-18 21:21:38,012 
+in.ineuron.beans.JavaCourseMaterial 1015 main DEBUG JavaCourseMaterial.courseContent() 2023-12-18 21:21:38,012 
+in.ineuron.beans.Student 1016 main INFO Choosen courses are: 1. OOPS 2. Exception Handling 3. Collection... 2023-12-18 21:21:38,013 
+in.ineuron.beans.Student 1016 main INFO Course Price is Rs 450.5 2023-12-18 21:21:38,013 
